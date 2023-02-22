@@ -2,4 +2,4 @@
 
 A new Flutter project.
 
-it doctor finding app 
+it is a doctor finding app 
